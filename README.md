@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AnushkaJain99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnushkaJain99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1288-remove-covered-intervals](https://github.com/AnushkaJain99/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnushkaJain99/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnushkaJain99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AnushkaJain99/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/AnushkaJain99/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AnushkaJain99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/AnushkaJain99/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/AnushkaJain99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/AnushkaJain99/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnushkaJain99/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AnushkaJain99/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
