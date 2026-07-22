@@ -4,7 +4,6 @@ class Solution {
     public List<Integer> maxActiveSectionsAfterTrade(String s, int[][] queries) {
         int n = s.length();
 
-        // ---- Build run-length encoding ----
         int[] rs = new int[n], re = new int[n], rlen = new int[n];
         char[] rc = new char[n];
         int m = 0;
@@ -25,7 +24,7 @@ class Solution {
         for (int k = 0; k < m; k++) if (rc[k] == '1') totalOnesL += rlen[k];
         int totalOnes = (int) totalOnesL;
 
-        // ---- g(i) = rlen[i-1] + rlen[i+1] for interior '1' runs ----
+        
         int NEG = -1;
         int[] G = new int[Math.max(m, 1)];
         Arrays.fill(G, NEG);
@@ -33,7 +32,7 @@ class Solution {
             if (rc[k] == '1') G[k] = rlen[k - 1] + rlen[k + 1];
         }
 
-        // ---- Sparse table for range max on G ----
+       
         int LOG = 1;
         while ((1 << LOG) < Math.max(m, 2)) LOG++;
         int[][] sparse = new int[LOG + 1][Math.max(m, 1)];
