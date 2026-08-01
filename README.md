@@ -277,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AnushkaJain99/Leetcode/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/AnushkaJain99/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
