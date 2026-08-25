@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/AnushkaJain99/Leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/AnushkaJain99/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/AnushkaJain99/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AnushkaJain99/Leetcode/tree/master/0595-big-countries) |
