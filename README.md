@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnushkaJain99/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/AnushkaJain99/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0541-reverse-string-ii](https://github.com/AnushkaJain99/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/AnushkaJain99/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AnushkaJain99/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnushkaJain99/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnushkaJain99/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnushkaJain99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AnushkaJain99/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AnushkaJain99/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AnushkaJain99/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnushkaJain99/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/AnushkaJain99/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AnushkaJain99/Leetcode/tree/master/1510-stone-game-iv) |
