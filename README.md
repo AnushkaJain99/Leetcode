@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnushkaJain99/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AnushkaJain99/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnushkaJain99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AnushkaJain99/Leetcode/tree/master/0486-predict-the-winner) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnushkaJain99/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AnushkaJain99/Leetcode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/AnushkaJain99/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnushkaJain99/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
